@@ -9,13 +9,13 @@ A strong interlocking system prevents conflicting operations and ensures proper 
 
 
 ## Features
-**State-Based Sequential Control** – Dedicated states for loading, receiving, transporting, storing, returning, retrieving, unloading, and controlled start/stop transitions.
-**Pallet Handling** – Automated loading, storage, retrieval, and unloading using a motorized fork crane.
-**Interlocking System** – Prevents conflicting machine operations and ensures safe state transitions.
-**Ready-to-Stop Functionality** – Allows an active loading or unloading sequence to finish before stopping.
-**Emergency Stop** – Immediately stops machine operation and requires manual pallet removal before restarting.
-**Start/Stop & Reset Controls** – Provides controlled operator interaction with the system.
-**Mode Switching** – Allows operating modes to be changed during operation while maintaining safety and sequence conditions.
+- **State-Based Sequential Control** – Dedicated states for loading, receiving, transporting, storing, returning, retrieving, unloading, and controlled start/stop transitions.
+- **Pallet Handling** – Automated loading, storage, retrieval, and unloading using a motorized fork crane.
+- **Interlocking System** – Prevents conflicting machine operations and ensures safe state transitions.
+- **Ready-to-Stop Functionality** – Allows an active loading or unloading sequence to finish before stopping.
+- **Emergency Stop** – Immediately stops machine operation and requires manual pallet removal before restarting.
+- **Start/Stop & Reset Controls** – Provides controlled operator interaction with the system.
+- **Mode Switching** – Allows operating modes to be changed during operation while maintaining safety and sequence conditions.
 
 
 ## Technologies
